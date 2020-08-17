@@ -1,0 +1,12 @@
+{"level":"DEBUG","time":"2020-08-17T11:46:21.083+0800","caller":"webapp/main.go:31","msg":"logger init success"}
+{"level":"INFO","time":"2020-08-17T11:46:25.537+0800","caller":"logger/logger.go:64","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36","errors":"","cost":0.0009982}
+{"level":"INFO","time":"2020-08-17T11:46:29.168+0800","caller":"logger/logger.go:64","msg":"/asdfasf","status":404,"method":"GET","path":"/asdfasf","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2020-08-17T11:46:38.986+0800","caller":"webapp/main.go:68","msg":"ShutDown Server ..."}
+{"level":"INFO","time":"2020-08-17T11:46:38.986+0800","caller":"webapp/main.go:77","msg":"server exiting"}
+{"level":"DEBUG","time":"2020-08-17T11:47:43.678+0800","caller":"webapp/main.go:31","msg":"logger init success"}
+{"level":"INFO","time":"2020-08-17T11:47:49.416+0800","caller":"logger/logger.go:64","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36","errors":"","cost":3.000044}
+{"level":"INFO","time":"2020-08-17T11:47:56.905+0800","caller":"logger/logger.go:64","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36","errors":"","cost":3.0006111}
+{"level":"INFO","time":"2020-08-17T11:48:04.433+0800","caller":"webapp/main.go:68","msg":"ShutDown Server ..."}
+{"level":"INFO","time":"2020-08-17T11:48:06.478+0800","caller":"logger/logger.go:64","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36","errors":"","cost":3.0002791}
+{"level":"INFO","time":"2020-08-17T11:48:06.934+0800","caller":"webapp/main.go:77","msg":"server exiting"}
+{"level":"DEBUG","time":"2020-08-17T11:49:21.223+0800","caller":"webapp/main.go:31","msg":"logger init success"}
